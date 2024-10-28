@@ -1,0 +1,18 @@
+.custom-card {
+    height: 350px; /* Set the desired height */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+
+.left-align-description {
+    text-align: left;
+}
+
+
+.left-align-title {
+    text-align: left;
+    margin-bottom: 15px;
+}
